@@ -1,2 +1,2 @@
 # JediCODE
-And also A Jedi can code.
+And also a Jedi can code.
